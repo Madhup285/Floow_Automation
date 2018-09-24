@@ -8,7 +8,17 @@ INSTALLATION:
 BuildAutomation tool
            maven
  BROWSER:
-       fIREFOX
+       FIREFOX
   I have used implicitwaits
   
+  /******** Registration********/
+  
+  
+  /******** Logging in ********************/
+  
+  /******** Conduction a Search ***********/
+  
+  /******* Conduction some Navigation*******/
+  
+  /******** Making a Purchase **************/
 
