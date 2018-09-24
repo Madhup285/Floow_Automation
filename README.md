@@ -11,14 +11,19 @@ BuildAutomation tool
        FIREFOX
   I have used implicitwaits
   
-  /******** Registration********/
+  Below are the Code
   
+  /******** Registration********/
+  Floow_Automation/TestCasesScripts/Registration/Registration.java
   
   /******** Logging in ********************/
+  Floow_Automation/TestCasesScripts/Login/Login.java
   
   /******** Conduction a Search ***********/
+  Floow_Automation/TestCasesScripts/Conduction_Search_Scripts/Conducting_Search_Scripts.java
   
   /******* Conduction some Navigation*******/
+  Floow_Automation/TestCasesScripts/Navigation/Navigation.java
   
   /******** Making a Purchase **************/
-
+ Floow_Automation/TestCasesScripts/AddtoCard/AddtoCard.java
